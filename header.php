@@ -26,7 +26,7 @@
 
 	<header id="masthead" class="site-header" role="banner">
 		<div class="logo-quel">
-			<img src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/Logo_The_London_Ginger.png" class="logo-tlg" alt="" />
+			<a href="home"><img src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/Logo_The_London_Ginger.png" class="logo-tlg" alt="" /></a>
 		</div>
 		<div class="site-branding">
 			<?php
