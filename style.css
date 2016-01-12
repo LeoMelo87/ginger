@@ -286,7 +286,7 @@ input,
 select,
 textarea {
 	color: black;
-	font-family: "Georgia", sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-size: 24px;
 	font-size: 1rem;
 	line-height: 1.5;
@@ -879,7 +879,7 @@ a:active {
 
 .entry-content p {
 	color: black;
-  font-family: "Georgia", cursive;
+  font-family: 'Quicksand', sans-serif;
   font-size: 14px;
   /*line-height: 1.5;*/
   padding-top: 20px;
@@ -1321,7 +1321,7 @@ label {
 	color: black;
 	text-transform: uppercase;
 	font-family: "jenna_sueregular", sans-serif;
-	font-size: 48px;
+	font-size: 38px;
 	padding-top: 20px;
 	text-align: center;
 }
@@ -1349,8 +1349,8 @@ label {
 
 .entry-content p {
 	color: black;
-  font-family: "Georgia", cursive;
-  font-size: 14px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
   /*line-height: 1.5;*/
   padding-top: 20px;
   padding-left: 10%;
@@ -1414,7 +1414,7 @@ label {
 .comment-notes {
 	color: black;
 	text-transform: uppercase;
-	font-family: "Georgia", sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-size: 14px;
 	padding-top: 5px;
 	text-align: left;
@@ -1461,7 +1461,7 @@ label {
 #recent-posts-2 ul li {
   color: black;
   text-transform: uppercase;
-  font-family: "Georgia", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 14px;
   padding-top: 5px;
   text-align: left;
@@ -1494,7 +1494,7 @@ label {
 #meta-2 ul li {
   color: black;
   text-transform: uppercase;
-  font-family: "Georgia", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 14px;
   padding-top: 5px;
   text-align: left;
